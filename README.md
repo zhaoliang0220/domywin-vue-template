@@ -1,24 +1,3 @@
-# beef_vue
+# DOMYWIN-WEB-VUE
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+这是基于vue-manage-system改造的轻量级的开发框架模板，结构简单，更适合二次开发
